@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif; 
+}
+
+.container{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(21, 62, 78);
+    margin: 50px auto;
+}
+
+.logo{
+   font-family: sans-serif; 
+   margin-left: 40px;   
+}
+
+.one{
+    color: rgba(255, 255, 255, 0.904);
+    padding-top: 20px;
+}
+
+.two{
+    color:gold;
+}
+
+.navs{
+    text-align: end;
+    margin-right: 50px;
+    margin-top: -20px;
+}
+
+.more{
+    color: gold;
+    font-size: 14px;
+    margin-top: -30px;
+}
+
+nav{
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.904);
+    margin-left: 16px ;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+
+
+/* a:first-child{
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+} */
+
+.heading{
+    font-family: arial black ;
+    font-size: 35px;
+    margin-left: 30px;
+}
+
+.up{
+    color: rgb(228, 194, 0);
+    margin-top: 40px;
+}
+
+.down{
+    color:rgba(255, 255, 255, 0.904);
+    margin-top: -10px;
+    font-size: 35px;
+}
+
+h4{
+    color:white;
+    font-weight: lighter;
+    font-size:10px;
+    margin-left: 30px;
+    letter-spacing: 1.5px;
+    width: 350px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+
+.name{
+    border:rgb(21, 62, 78) solid 5px;
+    padding: 4px 20px;
+    border-radius: 15px;
+}
+
+.email{
+    padding: 4px 20px;
+    border:rgb(21, 62, 78) solid 5px;
+    border-radius: 15px;
+}
+
+div{
+    margin: 2px 25px;
+}
+
+button{
+    background-color:rgb(241, 208, 21); 
+    border:rgb(21, 62, 78) 2px solid;
+    border-radius: 15px;
+    padding: 5px 15px;
+    margin: 10px 30px;
+    font-size: 11px;
+}
+
+
+img{
+    width: 300px;
+    height: 250px;
+    border-radius:80px;
+    float: right;
+    margin-top: -250px;
+    margin-right: 50px;
+}
